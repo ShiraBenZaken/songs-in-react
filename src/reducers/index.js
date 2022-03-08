@@ -3,19 +3,19 @@ import { combineReducers } from 'redux';
 const songsReducer = () => {
     return [
         {
-            title: 'Can I be him',
+            title: 'LaLaLa',
             duration: '4:06'
         },
         {
-            title: 'Impossible',
+            title: 'LuLuLu',
             duration: '3:29'
         },
         {
-            title: 'Hello',
+            title: 'LILILI',
             duration: '4:15'
         },
         {
-            title: 'Sorry',
+            title: 'LoLoLo',
             duration: '3:40'
         }
     ]
